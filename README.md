@@ -1,8 +1,8 @@
 # Netflix Data Pipeline on Azure
 
-Overview
+# Overview
 
-# This project develops a batch-oriented data pipeline to process Netflix-related data using Azure Data Factory (ADF), Databricks, and Delta Live Tables (DLT). The objective is to build a scalable and automated Weekly sheduled ETL process that enables periodic data ingestion, transformation, and analysis.
+This project develops a batch-oriented data pipeline to process Netflix-related data using Azure Data Factory (ADF), Databricks, and Delta Live Tables (DLT). The objective is to build a scalable and automated Weekly sheduled ETL process that enables periodic data ingestion, transformation, and analysis.
 
 # Architecture
 
